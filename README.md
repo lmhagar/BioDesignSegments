@@ -1,5 +1,5 @@
-# PowerNoPivots
-Supplementary code for Power Analysis without Pivotal Quantities manuscript 
+# BioDesignSegments
+Supplementary code for Bioequivalence Design with Sampling Distribution Segments manuscript 
 
 The code files for this manuscript are divided into 3 groups.
 
